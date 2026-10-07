@@ -12,4 +12,4 @@
 | **Python** | `pip install tanvo` | [tanvo-python](https://github.com/tanvoai/tanvo-python) |
 | **JavaScript / TypeScript** | `npm install @tanvoai/sdk` | [tanvo-js](https://github.com/tanvoai/tanvo-js) |
 
-Every client works without an API key on the free tier, so you can try it in a minute. API keys: [tanvo.ai/settings/apikeys](https://tanvo.ai/settings/apikeys?utm_source=github&utm_medium=profile).
+Docs: [tanvo.ai/developers](https://tanvo.ai/developers?utm_source=github&utm_medium=profile). Every client works without an API key on the free tier, so you can try it in a minute. API keys: [tanvo.ai/settings/apikeys](https://tanvo.ai/settings/apikeys?utm_source=github&utm_medium=profile).
