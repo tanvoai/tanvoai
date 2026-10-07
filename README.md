@@ -11,5 +11,6 @@
 | **MCP server** for Claude, Cursor, Codex, Gemini CLI | `npx -y tanvo-mcp` | [tanvo-mcp](https://github.com/tanvoai/tanvo-mcp) |
 | **Python** | `pip install tanvo` | [tanvo-python](https://github.com/tanvoai/tanvo-python) |
 | **JavaScript / TypeScript** | `npm install @tanvoai/sdk` | [tanvo-js](https://github.com/tanvoai/tanvo-js) |
+| **Vercel AI SDK** provider | `npm install @tanvoai/ai-provider` | [tanvo-ai-provider](https://github.com/tanvoai/tanvo-ai-provider) |
 
 Docs: [tanvo.ai/developers](https://tanvo.ai/developers?utm_source=github&utm_medium=profile). Every client works without an API key on the free tier, so you can try it in a minute. API keys: [tanvo.ai/settings/apikeys](https://tanvo.ai/settings/apikeys?utm_source=github&utm_medium=profile).
