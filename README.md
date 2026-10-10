@@ -11,6 +11,7 @@
 | **MCP server** for Claude, Cursor, Codex, Gemini CLI | `npx -y tanvo-mcp` | [tanvo-mcp](https://github.com/tanvoai/tanvo-mcp) |
 | **Python** | `pip install tanvo` | [tanvo-python](https://github.com/tanvoai/tanvo-python) |
 | **JavaScript / TypeScript** | `npm install @tanvoai/sdk` | [tanvo-js](https://github.com/tanvoai/tanvo-js) |
+| **Go** | `go get github.com/tanvoai/tanvo-go` | [tanvo-go](https://github.com/tanvoai/tanvo-go) |
 | **LangChain** tools | `pip install langchain-tanvo` | [langchain-tanvo](https://github.com/tanvoai/langchain-tanvo) |
 | **Vercel AI SDK** provider | `npm install @tanvoai/ai-provider` | [tanvo-ai-provider](https://github.com/tanvoai/tanvo-ai-provider) |
 
